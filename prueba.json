@@ -1,0 +1,56 @@
+[
+	{
+		"id": 1,
+		"image": "img/1.png",
+		"name": "Pro 28\"",
+		"price": "284.00",
+		"inventory": 4,
+		"productCode": "K203",
+		"delete": "<button onclick='deletebutton()'>delete</button>"
+	},
+	{
+		"id": 2,
+		"image": "img/null.png",
+		"name": "Orient S-400 26\"",
+		"price": "198.00",
+		"inventory": 14,
+		"productCode": "K433",
+		"delete": "<button>delete</button>"
+	},
+	{
+		"id": 3,
+		"image": "img/2.png",
+		"name": "Bullet Bora 20\"",
+		"price": "350.00",
+		"inventory": 7,
+		"productCode": "K012",
+		"delete": "<button>delete</button>"
+	},
+	{
+		"id": 4,
+		"image": "img/4.png",
+		"name": "Feder handmade",
+		"price": "790.00",
+		"inventory": 5,
+		"productCode": "G0127",
+		"delete": "<button>delete</button>"
+	},
+	{
+		"id": 5,
+		"image": "img/6.png",
+		"name": "Ibanez G120",
+		"price": "430.00",
+		"inventory": 2,
+		"productCode": "G1233",
+		"delete": "<button>delete</button>"
+	},
+	{
+		"id": 6,
+		"image": "img/7.png",
+		"name": "Feder Blues edition",
+		"price": "650.00",
+		"inventory": 6,
+		"productCode": "G4478",
+		"delete": "<button>delete</button>"
+	}
+]
